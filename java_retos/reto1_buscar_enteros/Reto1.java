@@ -9,7 +9,7 @@ import java.util.regex.*;
 
 public class Reto1 {
     public static void main(String[] args) {
-        String texto = "En 2023, había 15 estudiantes y 3 profesores.";
+        String texto = "En 2025 estoy en 3 er semestre.";
         // Expresión regular para enteros (positivos y negativos)
         String patron = "-?\\b\\d+\\b";
         Pattern pattern = Pattern.compile(patron);
